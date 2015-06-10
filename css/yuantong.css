@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+
+.yuantong_body_size {
+    height: 500px;
+    overflow: auto;
+    page-break-after: auto;
+}
+
+.yuantong_sender_name {
+    position:absolute;
+    margin-left: 80px;
+    margin-top: 60px;
+    width: 200px;
+    font-size: 150%;
+}
+
+.yuantong_sender_address {
+    position:absolute;
+    margin-left: 60px;
+    margin-top: 190px;
+    width: 600px;
+    font-size: 150%;
+}
+
+.yuantong_sender_phone {
+    position:absolute;
+    margin-left: 140px;
+    margin-top: 240px;
+    width: 400px;
+    font-size: 150%;
+}
+
+.yuantong_receiver_name {
+    position:absolute;
+    margin-left: 600px;
+    margin-top: 80px;
+    width: 200px;
+    font-size: 150%;
+}
+
+.yuantong_receiver_address {
+    position:absolute;
+    margin-left: 530px;
+    margin-top: 210px;
+    width: 600px;
+    font-size: 150%;
+}
+
+.yuantong_receiver_phone {
+    position:absolute;
+    margin-left: 900px;
+    margin-top: 80px;
+    width: 300px;
+    font-size: 150%;
+}
+

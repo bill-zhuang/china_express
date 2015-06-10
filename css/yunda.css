@@ -1,0 +1,56 @@
+@CHARSET "UTF-8";
+
+.yunda_body_size {
+    height: 500px;
+    overflow: auto;
+    page-break-after: auto;
+}
+
+.yunda_sender_name {
+    position:absolute;
+    margin-left: 80px;
+    margin-top: 80px;
+    width: 200px;
+    font-size: 150%;
+}
+
+.yunda_sender_address {
+    position:absolute;
+    margin-left: 50px;
+    margin-top: 190px;
+    width: 450px;
+    font-size: 150%;
+}
+
+.yunda_sender_phone {
+    position:absolute;
+    margin-left: 310px;
+    margin-top: 250px;
+    width: 200px;
+    font-size: 150%;
+}
+
+.yunda_receiver_name {
+    position:absolute;
+    margin-left: 580px;
+    margin-top: 80px;
+    width: 100px;
+    font-size: 150%;
+}
+
+.yunda_receiver_address {
+    position:absolute;
+    margin-left: 540px;
+    margin-top: 160px;
+    width: 450px;
+    font-size: 150%;
+}
+
+.yunda_receiver_phone {
+    position:absolute;
+    margin-left: 840px;
+    margin-top: 240px;
+    width: 200px;
+    font-size: 150%;
+}
+
